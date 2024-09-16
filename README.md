@@ -1,11 +1,11 @@
-#Password Complexity Checker
+# Password Complexity Checker
 
-##Description:
+## Description:
 
 
 This Python script is designed to evaluate the strength of a given password based on various criteria such as length, presence of uppercase and lowercase letters, digits, and special characters. The strength is categorized as weak, medium, or strong, and the evaluation is printed out for the user.
 
-##Components:
+## Components:
 
 1. p_strength(password) Function:
 
@@ -23,7 +23,7 @@ It then displays the length of the entered password and evaluates its strength u
 If the password length is not within the specified range, an appropriate message is displayed.
 
 
-##Usage:
+## Usage:
 
 
 Input Prompt:
@@ -45,6 +45,6 @@ Run the script and follow the input prompts to enter a password.
 The script will then evaluate the strength of the entered password and display the result.
 
 
-##Note:
+## Note:
 The script does not enforce any specific password policy but provides an assessment based on common criteria for password strength.
 
